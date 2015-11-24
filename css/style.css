@@ -64,3 +64,5 @@ footer.page-footer {
 #header-logo {
   height: 20px }
 
+.mask { 
+  background-color: rgba(2,2,2,.5)}
